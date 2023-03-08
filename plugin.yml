@@ -1,0 +1,9 @@
+name: DeathRun
+main: com.github.faviomc19.deathrun.DeathRun
+version: 0.0.1
+api-version: 1.16
+commands:
+   DeathRun:
+      description: comando principal!
+      usage: /<command>
+      aliases: [dr]

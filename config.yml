@@ -1,0 +1,11 @@
+messages:
+  eliminated: "&cEl jugador &7%player% &cfue eliminado."
+
+permissions:
+  player: "deathrun.player"
+  
+mode:
+  mode: GAMEMODE
+  gamemodes:
+    - ADVENTURE
+    - SURVIVAL
